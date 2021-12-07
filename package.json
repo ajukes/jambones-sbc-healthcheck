@@ -1,0 +1,15 @@
+{
+  "name": "jambones-sbc-healthcheck",
+  "description": "webapp for simple health check",
+  "main": "app.js",
+  "version": "0.0.1",
+  "author": "Antony Jukes",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.1"
+  }
+}
